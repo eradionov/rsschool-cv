@@ -125,3 +125,18 @@ final class WeatherForecast extends Command
     }
 }
 ```
+***
+## Work Experience:
+- Junior PHP-Developer in **Company for Juniors** (2012-2014)
+- Middle PHP-Developer in **Company for Middles** (2014-2017)
+- Senior PHP-Developer in **Company for Seniors** (2017-current)
+***
+## Courses:
+- RS-School Nodejs (completed)
+- RS-School "Javascript-Frontend" (in progress)
+
+***
+## Languages:
+- English - Advanced
+- Czech - Basic
+- Polish - Basic
